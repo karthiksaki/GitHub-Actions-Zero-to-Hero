@@ -2,7 +2,6 @@ name: My First GitHub Actions
 
 on: [push]
 
-
 jobs:
   build:
     runs-on: ubuntu-latest
